@@ -1,0 +1,8 @@
+#!name=自动加入tf并关闭本脚本模块Auto module for JavaScripts
+#!desc=For those JavaScripts who should be disabled after evaluation successful.
+#自动加入tf并关闭本脚本模块
+#模块内容（点击直接复制）
+#⚠️创建本地模块
+
+[Script]
+Auto join TF = type=cron,cronexp=*/1 * * * * *,script-path=https://github.com/DecoAri/JavaScript/blob/main/Surge/Auto_join_TF.js?raw=true,wake-system=0
