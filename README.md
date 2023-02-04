@@ -1,1 +1,1 @@
-# Chskuawa 自用Surge，Quantumult X脚本
+# Scpshaku 自用Surge，Quantumult X脚本
