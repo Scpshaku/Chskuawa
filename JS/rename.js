@@ -70,19 +70,6 @@ var autofill = parseInt($arguments.autofill) || false;
 // 获取机场名
 const airport = ($arguments.airport == undefined) ? '' : decodeURI($arguments.airport);
 
-//删除非必要的1
-function stripOnes(proxies) {
-  Object.keys(countries).forEach((item,index,array)=>{
-    if (countries[item][1] === 1) {
-      proxies.map((res) => {
-        if (res.name.indexOf(countries[item][0]) !== -1) {
-          res.name = res.name.replace("1", '');
-        };
-      });
-    };
-  });
-  return proxies
-};
 
 // 简繁转换
 function charPYStr() {
