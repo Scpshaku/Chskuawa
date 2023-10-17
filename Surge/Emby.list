@@ -2,6 +2,7 @@
 # > UPDATED: 2023-02-03
 
 # > 流媒体emby服务器
+DOMAIN-KEYWORD,emby
 DOMAIN,emby.nexitally.com
 DOMAIN,emby.cjpc.cc
 DOMAIN,emby.flowercloud.yt
@@ -56,11 +57,10 @@ DOMAIN,bsem.ddns.me
 DOMAIN-KEYWORD,infinityfly
 DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,misty
-DOMAIN-KEYWORD,jiasu
-DOMAIN-KEYWORD,emby
+DOMAIN-KEYWORD,jias
 DOMAIN-KEYWORD,poloemby
 DOMAIN,media.nijigem.by
-DOMAIN-KEYWORD,emby.wtf
+DOMAIN-KEYWORD,embymv.tk
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-DOMAIN-KEYWORD,nakonako
+DOMAIN-KEYWORD,nakonak
