@@ -1,22 +1,19 @@
 # > NAME: Emby
-# > UPDATED: 2023-02-03
+# > UPDATED: 2024-07-02
 # > 流媒体emby服务器
 
 DOMAIN-KEYWORD,emby
-DOMAIN,play.charontv.com
-DOMAIN,krcf.st8.one
-DOMAIN,789.123456.al
-DOMAIN,45.92.156.143
-DOMAIN,178.173.230.8
 DOMAIN-KEYWORD,misakaf
 DOMAIN-KEYWORD,misty
 DOMAIN-KEYWORD,jias
-DOMAIN,media.nijigem.by
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,nakonak
 DOMAIN-KEYWORD,pilipili
 DOMAIN-KEYWORD,carlos
+DOMAIN-KEYWORD,charontv
+DOMAIN,media.nijigem.by
+DOMAIN,krcf.st8.one
 DOMAIN,cc.coemn.com
 DOMAIN,peachmv.me
 DOMAIN,cf.xmsl.org
