@@ -2,12 +2,12 @@
 # > UPDATED: 2023-02-03
 # > 流媒体emby服务器
 
+host,krcf.st8.one,Emby
+host,cc.coemn.com,Emby
 host-keyword,emby,Emby
 host-keyword,charontv,Emby
-host,krcf.st8.one,Emby
-host,789.123456.al,Emby
-host,45.92.156.143,Emby
-host,178.173.230.8,Emby
+host,193.123.232.141,Emby
+host,193.123.232.141,Emby
 host-keyword,misakaf,Emby
 host-keyword,misty,Emby
 host-keyword,jias,Emby
@@ -17,8 +17,5 @@ host-keyword,odysseyplus,Emby
 host-keyword,nakonak,Emby
 host-keyword,pilipili,Emby
 host-keyword,carlos,Emby
-host-keyword,cc.coemn.com,Emby
 host-keyword,peachmv,Emby
 host-keyword,xmsl,Emby
-host,193.123.232.141,Emby
-host,193.123.232.141,Emby
