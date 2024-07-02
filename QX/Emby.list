@@ -2,11 +2,12 @@
 # > UPDATED: 2023-02-03
 # > 流媒体emby服务器
 
+host-keyword,emby,Emby
 host-keyword,charontv,Emby
 host,krcf.st8.one,Emby
-DHOST-SUFFIX,789.123456.al,Emby
-DHOST-SUFFIX,45.92.156.143,Emby
-DHOST-SUFFIX,178.173.230.8,Emby
+host,789.123456.al,Emby
+host,45.92.156.143,Emby
+host,178.173.230.8,Emby
 host-keyword,misakaf,Emby
 host-keyword,misty,Emby
 host-keyword,jias,Emby
