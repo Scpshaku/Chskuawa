@@ -6,17 +6,23 @@
 # > UPDATED: 2023-02-03
 # > 流媒体emby服务器
 
-HOST-KEYWORD,emby
-HOST,play.charontv.com
-HOST-KEYWORD,misakaf
-HOST-KEYWORD,misty
-HOST-KEYWORD,jias
-HOST,media.nijigem.by
-HOST-KEYWORD,jmsooo
-HOST-KEYWORD,odysseyplus
-HOST-KEYWORD,nakonak
-HOST-KEYWORD,pilipili
-HOST-KEYWORD,carlos
-HOST,cc.coemn.com
-HOST,peachmv.me
-HOST,cf.xmsl.org
+DOMAIN-KEYWORD,emby
+DOMAIN,play.charontv.com
+DOMAIN,krcf.st8.one
+DOMAIN,789.123456.al
+DOMAIN,45.92.156.143
+DOMAIN,178.173.230.8
+DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,misty
+DOMAIN-KEYWORD,jias
+DOMAIN,media.nijigem.by
+DOMAIN-KEYWORD,jmsooo
+DOMAIN-KEYWORD,odysseyplus
+DOMAIN-KEYWORD,nakonak
+DOMAIN-KEYWORD,pilipili
+DOMAIN-KEYWORD,carlos
+DOMAIN,cc.coemn.com
+DOMAIN,peachmv.me
+DOMAIN,cf.xmsl.org
+DOMAIN,168.138.45.100
+DOMAIN,193.123.232.141
