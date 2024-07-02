@@ -6,22 +6,21 @@
 # > UPDATED: 2023-02-03
 # > 流媒体emby服务器
 
-DOMAIN,play.charontv.com
-DOMAIN,krcf.st8.one
-DOMAIN,789.123456.al
-DOMAIN,45.92.156.143
-DOMAIN,178.173.230.8
-DOMAIN-KEYWORD,misakaf
-DOMAIN-KEYWORD,misty
-DOMAIN-KEYWORD,jias
-DOMAIN,media.nijigem.by
-DOMAIN-KEYWORD,jmsooo
-DOMAIN-KEYWORD,odysseyplus
-DOMAIN-KEYWORD,nakonak
-DOMAIN-KEYWORD,pilipili
-DOMAIN-KEYWORD,carlos
-DOMAIN,cc.coemn.com
-DOMAIN,peachmv.me
-DOMAIN,cf.xmsl.org
-DOMAIN,168.138.45.100
-DOMAIN,193.123.232.141
+DHOST-SUFFIX,play.charontv.com,Emby
+DHOST-SUFFIX,krcf.st8.one,Emby
+DHOST-SUFFIX,789.123456.al,Emby
+DHOST-SUFFIX,45.92.156.143,Emby
+DHOST-SUFFIX,178.173.230.8,Emby
+DHOST-SUFFIX,misakaf,Emby
+DHOST-SUFFIX,misty,Emby
+DHOST-SUFFIX,jias,Emby
+DHOST-SUFFIX,media.nijigem.by,Emby
+DHOST-SUFFIX,jmsooo,Emby
+DHOST-SUFFIX,odysseyplus,Emby
+DHOST-SUFFIX,nakonak,Emby
+DHOST-SUFFIX,pilipili,Emby
+DHOST-SUFFIX,carlos,Emby
+DHOST-SUFFIX,cc.coemn.com,Emby
+DHOST-SUFFIX,peachmv.me,Emby
+DHOST-SUFFIX,cf.xmsl.org,Emby
+DHOST-SUFFIX,193.123.232.141,Emby
