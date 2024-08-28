@@ -1,11 +1,11 @@
-#Title: AWAvenue Ads Rule
-#Last modified: 2024-07-23T09:36:03.160610+00:00
-#--------------------------------------
-#Total lines: 629
-#Version: 1.5.0-release-Patch-2
+# Title: AWAvenue Ads Rule
+# Last modified: 2024-07-23T09:36:03.160610+00:00
+# --------------------------------------
+# Total lines: 629
+# Version: 1.5.0-release-Patch-2
 
-#Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
-#License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
+# Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
+# License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
 
 
 IP-CIDR,123.56.23.22/32,reject
@@ -37,7 +37,7 @@ DOMAIN,ad.xiaomi.com,reject
 DOMAIN,ad.ximalaya.com,reject
 DOMAIN,ad.zijieapi.com,reject
 DOMAIN,adapi.izuiyou.com,reject
-DOMAIN,adapi.yynetwk.com,reject
+DOMAIN,adapi.yy,anetwk.com,reject
 DOMAIN,adashbc.ut.taobao.com,reject
 DOMAIN,adcdn.tencentmusic.com,reject
 DOMAIN,adclick.tencentmusic.com,reject
