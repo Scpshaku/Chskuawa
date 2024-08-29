@@ -4,24 +4,29 @@
 
 DOMAIN-KEYWORD,emby
 DOMAIN-KEYWORD,misakaf
-DOMAIN-KEYWORD,misty
-DOMAIN-KEYWORD,jias
 DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
-DOMAIN-KEYWORD,nakonak
-DOMAIN-KEYWORD,pilipili
 DOMAIN-KEYWORD,carlos
-DOMAIN-KEYWORD,charontv
-DOMAIN,media.nijigem.by
-DOMAIN,krcf.st8.one
 
+#peach
 DOMAIN,peachmv.me
-
-DOMAIN,168.138.45.100
 DOMAIN,193.123.232.141
+DOMAIN,168.138.45.100
 
+#pilipili
+DOMAIN,emby.pilipiliultra.com
 DOMAIN,8.223.112.11
+
+#Misty
+DOMAIN,misty.cx
+
+#yomo
+DOMAIN,emby.yomo.lol
 DOMAIN,104.161.22.116
+
+#CharonTV
+DOMAIN,play.charontv.com
+
 #cc
 DOMAIN,cc.coemn.com
 DOMAIN,dl.carryz.net
@@ -32,4 +37,7 @@ DOMAIN,cf.xmsl.org
 
 #TreeDiagram
 DOMAIN,789.123456.al
+
+DOMAIN,media.nijigem.by
+DOMAIN,krcf.st8.one
 
