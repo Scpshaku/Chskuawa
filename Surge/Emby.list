@@ -8,14 +8,18 @@ DOMAIN-KEYWORD,jmsooo
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,carlos
 DOMAIN,cf1.jmsuper.com
+
+#marmot
 DOMAIN,v.20120714.xyz
-DOMAIN-KEYWORD,pilipili
+DOMAIN,if.20120714.xyz
+
 #peach
 DOMAIN,peachmv.me
 DOMAIN,193.123.232.141
 DOMAIN,168.138.45.100
 
-#pilipili
+#pilipil
+DOMAIN-KEYWORD,pilipili
 DOMAIN,emby.pilipiliultra.com
 DOMAIN,8.223.112.11
 
