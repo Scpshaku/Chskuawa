@@ -1,58 +1,433 @@
 # > NAME: Emby
-# > UPDATED: 2024-07-02
+# > UPDATED: 2024-11-01
 # > 流媒体emby服务器
 
 DOMAIN-KEYWORD,emby
-DOMAIN-KEYWORD,misakaf
+
+##### A #####
+
+# ACA & MisakaF
+DOMAIN,emby.aca.best
+DOMAIN,porn.aca.best
+
+# 阿甘
+DOMAIN,agan2.vip
+
+# Aiyowei
+DOMAIN,emby.aiyowei.ml
+
+# AlphaTV
+DOMAIN-KEYWORD,oversea.alphatvapp.top
+
+##### B #####
+
+# BGK
+DOMAIN,emby.pro
+
+# 白丝(Porn)
+DOMAIN,baisi.pro
+
+# EmbyX(拨浪鼓)
+DOMAIN,speedx.one
+
+##### C #####
+
+# CC_Emby
+DOMAIN-KEYWORD,cc.coemn.com
+DOMAIN,cc.ccemby.tk
+DOMAIN,carryz.net
+
+# CherryEmby
+DOMAIN,cherrytv.one
+
+# 尘烬(未燃)
+DOMAIN,emby.eu.org
+
+# CaptainZ
+DOMAIN,wiri.tk
+
+##### D #####
+
+# Dolphin(海豚)
+DOMAIN,xiaoyi.one
+
+##### E #####
+
+# Exflux
+DOMAIN,line.emby.men
+
+# Emby Hub & EdNovascloud
+DOMAIN,ednovas.org
+
+##### F #####
+
+# Facmata
+DOMAIN,cinema.facmata.net
+
+# 非跃
+DOMAIN,sfcj.org
+
+# 飞跃彩虹
+DOMAIN,7777777.buzz
+DOMAIN,581658.best
+
+# 佛系(Free Emby 酷群)
+DOMAIN,4545.cf
+
+##### G #####
+
+# GuGu Emby
+DOMAIN,gugumedia.link
+
+# Godetia(猫熊)
+DOMAIN,emby.ssltd.xyz
+
+# GFW_Emby
+DOMAIN,gfwemby.org
+
+# 瓜田李下
+DOMAIN,gtlx.org
+
+##### H #####
+
+# HXD(Porn)
+DOMAIN,hxd.as174.com
+DOMAIN,bili.rip
+DOMAIN,nvidia.rip
+
+# 红尘(Porn)
+DOMAIN,cc.semby.ink
+DOMAIN,happyav.eu.org
+
+# 黑丝(Porn)
+DOMAIN,i109.com
+
+# 花云
+DOMAIN,emby.flowercloud
+
+# 黑猫影视EMBY
+DOMAIN,uuuoo.cc
+DOMAIN,emby.bid
+DOMAIN,emby.date
+DOMAIN,emby.loan
+DOMAIN,emby.trade
+
+# HKA(私服自建)
+DOMAIN,252798.xyz
+
+##### I #####
+
+# Immtel
+DOMAIN,emby.immtel.com
+
+# Infinityfly
+DOMAIN,infinityfly.top
+
+##### J #####
+#jms
 DOMAIN-KEYWORD,jmsooo
-DOMAIN-KEYWORD,odysseyplus
-DOMAIN-KEYWORD,carlos
 DOMAIN,cf1.jmsuper.com
 
-#marmot
-DOMAIN,v.20120714.xyz
-DOMAIN,if.20120714.xyz
+# 剧狗
+DOMAIN,ju.dog
+IP-CIDR,202.61.255.248/32
 
-#peach
+# 江湖(Porn)
+DOMAIN,reddust.link
+
+##### K #####
+
+# 卡戎
+DOMAIN,charontv.com
+
+##### L #####
+
+# Lyrebird(琴鸟)
+DOMAIN,lyrebirdemby.com
+
+# 垃圾影音(1111,Loser)
+DOMAIN,xmsl.org
+DOMAIN,emby.ml
+DOMAIN,loseremby.org
+
+# 牢大(Emby餐厅)
+DOMAIN,mius.uk
+DOMAIN,16bit.cfd
+
+# Land Emby
+DOMAIN,emby.lcloud.wiki
+
+# 蓝海
+DOMAIN,blueseacdn.com
+IP-CIDR,212.90.120.164/32
+
+##### M #####
+
+# MisakaF
+DOMAIN,misakaf.org
+
+# MjjEmby
+DOMAIN,mjjemby.org
+
+# Maying
+DOMAIN,emby.maying.club
+
+# Marmot(土拨鼠)
+DOMAIN,20120714.xyz
+
+# Magpie(喜鹊)
+DOMAIN,magpie.cyou
+DOMAIN,magpiecdn.tech
+
+# Misty Emby
+DOMAIN,misty.cx
+DOMAIN,em.ssky.me
+
+# MagicCloud(魔法Emby)
+DOMAIN,freetz.top
+
+# Mulgore(莫高雷)
+DOMAIN,mulgore.net
+
+# MdssCloud
+DOMAIN,emby.mdss.cloud
+
+##### N #####
+
+# ntRRR
+DOMAIN,ntrrr.am.sb
+DOMAIN,stream.ntrrr.top
+DOMAIN,stream.synn.cc
+
+# Nexitally
+DOMAIN,emby.nexitally.com
+
+# NMEmby
+DOMAIN,ohhhh.org
+DOMAIN,goodisp.org
+DOMAIN,hovervan.org
+
+# Nya Media
+DOMAIN,bangumi.ca
+
+# nijigem(二次元)
+DOMAIN,nijigem.by
+
+# Nebula
+DOMAIN,nebula-emby.com
+
+# Netcup
+DOMAIN,404.sb
+
+# NyanCATcloud
+DOMAIN,emby.nyancat.net
+
+# 泥视频
+DOMAIN,nivod4.tv
+DOMAIN,newpppp.com
+
+# Nanflix
+DOMAIN,nanflix.net
+
+##### O #####
+
+# Odyssey+
+DOMAIN,cf.odysseyplus.site
+DOMAIN,agahk.odysseyplus.site
+DOMAIN,agasg.odysseyplus.site
+DOMAIN,ru.odysseyplus.site
+
+# Otaku
+DOMAIN,emby.ok.edu.hk
+DOMAIN,emby.neko.edu.rs
+DOMAIN,emby.otakudrive.life
+DOMAIN,emby2.otakudrive.life
+
+# OUO
+DOMAIN,ouonet.org
+
+##### P #####
+
+# PiliPili
+DOMAIN,emby77.cf
+DOMAIN,emby77.org
+DOMAIN,pilipiliultra.top
+DOMAIN,pilipiliultra.com
+DOMAIN,pilipili.club
+DOMAIN-KEYWORD,pilipili
+DOMAIN,8.223.112.11
+
+# Peach
 DOMAIN,peachmv.me
 DOMAIN,193.123.232.141
 DOMAIN,168.138.45.100
 
-#pilipil
-DOMAIN-KEYWORD,pilipili
-DOMAIN,emby.pilipiliultra.com
-DOMAIN,8.223.112.11
+# PornEmby
+DOMAIN,pornemby.club
+DOMAIN,ii00.cc
 
-#Misty
-DOMAIN,misty.cx
+# PornEmby(网抑云)
+DOMAIN-KEYWORD,195.201.86.86
 
-#caihong
-DOMAIN,581658.best
+# polo(儿童)
+DOMAIN,poloemby.xyz
+DOMAIN,pololine.ml
 
-#feiyue
-DOMAIN,sfcj.org
+# 品云
+DOMAIN,embyplus.club
 
-#yomo
+# paoche
+DOMAIN,emby.cjpc.cc
+
+# prprcloud
+DOMAIN,emby.prprcloud.com
+
+# Paul(保罗)
+DOMAIN,imetyou.top
+
+# 普拉斯影业
+DOMAIN,embyserver.ga
+DOMAIN,emby.plusmedia.site
+DOMAIN,emby-cf.plusmedia.site
+DOMAIN,emby-sg.plusmedia.site
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
+
+##### Q #####
+
+##### R #####
+
+# 忍者云Emby
+DOMAIN,emby1.medi4.org
+DOMAIN,emby2.medi4.org
+
+# Robo
+DOMAIN,91ai.de
+
+##### S #####
+
+# SYN
+DOMAIN,stream.synn.cc
+DOMAIN,stream.ntrrr.top
+
+# 私房菜Emby
+DOMAIN-KEYWORD,notnetflix.cos.cat
+DOMAIN-KEYWORD,cminf.sfcat.link
+DOMAIN-KEYWORD,cuinf.sfcat.link
+
+# 守候网络Emby
+DOMAIN,emby.cn2gias.uk
+DOMAIN,post.cn2gias.uk
+
+# SarCat
+DOMAIN,starcat.eu.org
+DOMAIN,catlinks.co.uk
+
+# 叔服(Porn)
+DOMAIN,mcjoker.xyz
+
+# Singularity(Porn)
+DOMAIN,deja-vu.beauty
+
+# 水泊梁山
+DOMAIN,shuipo.lol
+
+# Studyfun
+DOMAIN,studyfun.live
+
+# SoCloud
+DOMAIN,emby.run
+
+##### T #####
+
+# 探花TV(Jellyfin Porn)
+DOMAIN,tanhuatv.site
+IP-CIDR,152.53.67.239/32
+
+# TreeDiagram(树状图)
+DOMAIN,123456.al
+
+# 特卡
+DOMAIN,carlos.trade
+
+# Temby
+DOMAIN,285286.xyz
+
+# 太空人
+DOMAIN,tkremby.xyz
+
+# Texon
+DOMAIN,texon.fans
+
+##### U #####
+
+##### V #####
+
+##### W #####
+
+##### X #####
+
+# 熊猫
+DOMAIN,embyclub.com
+DOMAIN,az-hk.embyclub.com
+DOMAIN,azsgp.embyclub.com
+
+# xeton
+DOMAIN,emby.xeton.dev
+DOMAIN,jellyfin.xeton.dev
+DOMAIN,movie.xeton.dev
+DOMAIN,servers.xeton.dev
+
+##### Y #####
+
+# Yomo
 DOMAIN,emby.yomo.lol
 DOMAIN,104.161.22.116
 
-#CharonTV
-DOMAIN,play.charontv.com
+# YTOO
+DOMAIN,emby.ytoo.li
 
-#cc
-DOMAIN,cc.coemn.com
-DOMAIN,dl.carryz.net
+##### Z #####
 
-#1111
-DOMAIN,ushd.xmsl.org
-DOMAIN,cf.xmsl.org
+# ZDZ(Terminus)
+DOMAIN,emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+DOMAIN,pub1cf.emby.wtf
+DOMAIN,pub2cf.emby.wtf
+DOMAIN,pub3cf.emby.wtf
+DOMAIN,pub1back.emby.wtf
+DOMAIN,pub2back.emby.wtf
+DOMAIN,pub3back.emby.wtf
 
-#TreeDiagram
-DOMAIN,789.123456.al
+# 纸片人
+DOMAIN,9521732.xyz
+DOMAIN,embyplus.org
 
-#mogu
-DOMAIN,mooguu
+# Zox/AcEmby
+DOMAIN,zox.show
+DOMAIN,acemby.org
 
+# 梓澪の妙妙屋
+DOMAIN,zi0.icu
 
-DOMAIN,media.nijigem.by
-DOMAIN,krcf.st8.one
+##### 0-9 #####
+
+##### 未分类 #####
+
+DOMAIN,emby.ws
+DOMAIN,emby.cl
+DOMAIN,emby.kim
+DOMAIN,embymv.me
+DOMAIN,embymv.tk
+DOMAIN,embytv.cf
+DOMAIN,agon.cf
+DOMAIN,ggtt.cf
+DOMAIN,bddup.com
+DOMAIN,newwan.top
+DOMAIN,dicarerhome.com
+DOMAIN,lucasmedia.top
+DOMAIN,9191001.xyz
+IP-CIDR,188.172.228.49/32
