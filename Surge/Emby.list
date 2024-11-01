@@ -53,6 +53,9 @@ DOMAIN,xiaoyi.one
 
 ##### E #####
 
+#二次元
+DOMAIN,media.nijigem.by
+
 # Exflux
 DOMAIN,line.emby.men
 
@@ -128,6 +131,9 @@ DOMAIN,infinityfly.top
 DOMAIN-KEYWORD,jmsooo
 DOMAIN,cf1.jmsuper.com
 
+#见手青
+DOMAIN,jsq.mooguu.top
+
 # 剧狗
 DOMAIN,ju.dog
 IP-CIDR,202.61.255.248/32
@@ -146,7 +152,7 @@ DOMAIN,charontv.com
 DOMAIN,lyrebirdemby.com
 
 # 垃圾影音(1111,Loser)
-DOMAIN,xmsl.org
+DOMAIN,cf.xmsl.org
 DOMAIN,emby.ml
 DOMAIN,loseremby.org
 
@@ -350,7 +356,7 @@ IP-CIDR,152.53.67.239/32
 DOMAIN,123456.al
 
 # 特卡
-DOMAIN,carlos.trade
+DOMAIN,cf.carlos.trade
 
 # Temby
 DOMAIN,285286.xyz
