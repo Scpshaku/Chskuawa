@@ -17,7 +17,7 @@ DOMAIN,agan2.vip
 DOMAIN,emby.aiyowei.ml
 
 # AlphaTV
-DOMAIN-KEYWORD,oversea.alphatvapp.top
+DOMAIN,oversea.alphatvapp.top
 
 ##### B #####
 
@@ -33,7 +33,7 @@ DOMAIN,speedx.one
 ##### C #####
 
 # CC_Emby
-DOMAIN-KEYWORD,cc.coemn.com
+DOMAIN,cc.coemn.com
 DOMAIN,cc.ccemby.tk
 DOMAIN,carryz.net
 
@@ -129,8 +129,7 @@ DOMAIN,infinityfly.top
 ##### J #####
 #jms
 DOMAIN-KEYWORD,jmsooo
-DOMAIN,cf1.jmsuper.com
-DOMAIN,mini.jmsuper.com
+DOMAIN-KEYWORD,jmsuper
 
 #见手青
 DOMAIN,jsq.mooguu.top
@@ -258,12 +257,12 @@ DOMAIN,ouonet.org
 ##### P #####
 
 # PiliPili
+DOMAIN-KEYWORD,pilipili
 DOMAIN,emby77.cf
 DOMAIN,emby77.org
 DOMAIN,pilipiliultra.top
 DOMAIN,pilipiliultra.com
 DOMAIN,pilipili.club
-DOMAIN-KEYWORD,pilipili
 DOMAIN,8.223.112.11
 
 # Peach
@@ -276,7 +275,7 @@ DOMAIN,pornemby.club
 DOMAIN,ii00.cc
 
 # PornEmby(网抑云)
-DOMAIN-KEYWORD,195.201.86.86
+DOMAIN,195.201.86.86
 
 # polo(儿童)
 DOMAIN,poloemby.xyz
@@ -321,9 +320,9 @@ DOMAIN,stream.synn.cc
 DOMAIN,stream.ntrrr.top
 
 # 私房菜Emby
-DOMAIN-KEYWORD,notnetflix.cos.cat
-DOMAIN-KEYWORD,cminf.sfcat.link
-DOMAIN-KEYWORD,cuinf.sfcat.link
+DOMAIN,notnetflix.cos.cat
+DOMAIN,cminf.sfcat.link
+DOMAIN,cuinf.sfcat.link
 
 # 守候网络Emby
 DOMAIN,emby.cn2gias.uk
