@@ -326,8 +326,8 @@ DOMAIN,cminf.sfcat.link
 DOMAIN,cuinf.sfcat.link
 
 # 守候网络Emby
-DOMAIN,emby.cn2gias.uk
-DOMAIN,post.cn2gias.uk
+DOMAIN,server2.cn2gias.uk
+DOMAIN,lite.cn2gias.uk
 
 # SarCat
 DOMAIN,starcat.eu.org
